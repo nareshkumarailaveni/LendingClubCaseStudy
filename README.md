@@ -32,7 +32,11 @@
 
 
 ## Technologies Used
-- library - version 3.0
+- numpy - version 1.21.5
+- pandas - version 1.4.4
+- Seaborn - version 0.11.2
+- Matplotlib - version 3.5.2
+- Python - version 3
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -44,7 +48,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@nareshkumarailaveni] - feel free to contact me!
+Created by [nareshkumarailaveni: chanti_36@yahoo.co.in] - feel free to contact me!
 
 
 <!-- Optional -->
