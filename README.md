@@ -12,8 +12,8 @@
 
 ## General Information
 - This project is on consumer finance company which is specialised in lending various types of loans to urban customers. 
-- As a finance company its has to make a decision for loan approval based on the applicant’s profile. By minimising the risks of loan default or not approving the loan to eligible applicants, the company has to lend the loan to applicants. 
-- Use EDA to understand how consumer attributes and loan attributes influence the tendency of loan default.
+- As a finance company it has to make a decision for loan approval based on the applicant’s profile. This is done by minimising the risks i.e., lending loan to potential defaulters or not approving the loan to eligible applicants. 
+- Using EDA, understand how consumer attributes and loan attributes influence the tendency of loan default.
 - Loan.csv is the dataset used for the analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
